@@ -1,0 +1,7 @@
+{
+  "name": "Basic Volume Mixer",
+  "description": "Enables you to control the sound volumes of each program on quick settings menu",
+  "uuid": "basic-vol-mixer@knohan",
+  "shell-version": ["49"],
+  "url": "https://github.com/knohan/basic-volume-mixer"
+}
